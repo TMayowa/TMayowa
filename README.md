@@ -8,7 +8,7 @@
       * build little helpful projects that could become startups 🏢
 - 🌱 I’m currently learning/working on python GUI
 - 💬 Ask me about supply chain management 
-- 📫 How to reach me: [Gmail] (oluwamat@stud.ntnu.no)
+- 📫 How to reach me: oluwamat@stud.ntnu.no
 - 😄 Pronouns: He
 
 <!--
