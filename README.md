@@ -10,7 +10,7 @@
 - 💬 Ask me about supply chain management 
 - 📫 How to reach me: oluwamat@stud.ntnu.no
 - 😄 Pronouns: He
-- 📚 Got exams till May 31st. Wish me luck 🤞🏾
+- 🌞 Enjoying the summer sun
 
 <!--
 **TMayowa/TMayowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
