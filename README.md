@@ -7,10 +7,10 @@
       * Build a game I can play with my brother 🎮
       * build little helpful projects that could become startups 🏢
 - 🌱 I’m currently improving my python skills
-- 💬 Ask me about supply chain management 
+- 💬 Ask me about product management and supply chain management 
 - 📫 How to reach me: togunmayowa@gmail.com
 - 😄 Pronouns: He
-- 🌞 Enjoying the summer sun
+- 🌞 Waiting for the summer sun
 
 <!--
 **TMayowa/TMayowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
