@@ -6,11 +6,11 @@
       * contribute to sustainability 💚
       * Build a game I can play with my brother 🎮
       * build little helpful projects that could become startups 🏢
-- 🌱 I’m currently improving my python skills
+- 🌱 I’m currently vibe coding an dlearning
 - 💬 Ask me about product management and supply chain management 
 - 📫 How to reach me: togunmayowa@gmail.com
 - 😄 Pronouns: He
-- 🌞 Waiting for the summer sun
+- 🎮 Playing Ghost of Yotei
 
 <!--
 **TMayowa/TMayowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
